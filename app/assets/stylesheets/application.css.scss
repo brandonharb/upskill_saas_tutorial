@@ -46,7 +46,7 @@ h1, h2, h3 {
 }
 
 .navbar-brand {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Monserrat', sans-serif;
   font-weight: 800;
 }
 
@@ -62,10 +62,14 @@ h1, h2, h3 {
 .navbar-default .navbar-toggle .icon-bar {
   background-color: white;
 }
-
+// Home Page Styles
 .navbar-default .navbar-toggle {
   border: 2px solid white;
   &:hover, &:focus {
     background-color: #C9FFBF;
   }
+}
+
+.alert-notice {
+  display: none
 }
