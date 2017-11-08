@@ -21,7 +21,7 @@
 
 /* Typography Styles*/
 h1, h2, h3 {
-  font-family: 'Monserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 /*Background Gradient*/
@@ -62,6 +62,7 @@ h1, h2, h3 {
 .navbar-default .navbar-toggle .icon-bar {
   background-color: white;
 }
+
 // Home Page Styles
 .navbar-default .navbar-toggle {
   border: 2px solid white;
@@ -72,4 +73,8 @@ h1, h2, h3 {
 
 .alert-notice {
   display: none
+}
+
+.home-signup-links {
+  margin-top: 30px;
 }
